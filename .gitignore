@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dados locais
+data/
+
+# Credenciais
+*.json
+.env
