@@ -1,0 +1,6 @@
+regiao,qtd_alunos,qtd_municipios,taxa_real_alfabetizacao_pct,score_alfabetizacao_pct,pct_classificado_alfabetizado,risco_medio_pct,inse_medio,ideb_portugues_medio,rendimento_medio,log_pib_per_capita_medio
+Norte,188095,435,50.75,51.18,25.17,48.82,4.466,189.97,0.96,10.369
+Nordeste,465488,1782,56.86,54.87,35.24,45.13,4.449,194.11,0.97,10.035
+Centro-Oeste,175205,466,64.7,59.36,73.69,40.64,5.065,205.85,0.968,10.979
+Sudeste,744637,1664,62.29,62.11,92.05,37.89,5.141,210.06,0.983,10.948
+Sul,278403,1170,60.97,66.95,95.83,33.05,5.368,216.34,0.975,10.928
